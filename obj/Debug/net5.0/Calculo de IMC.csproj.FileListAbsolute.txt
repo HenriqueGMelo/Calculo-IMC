@@ -1,0 +1,16 @@
+C:\Users\Henrique\Documents\Atividades Generation\IMC\Calculo de IMC\Calculo de IMC\bin\Debug\net5.0\Calculo de IMC.exe
+C:\Users\Henrique\Documents\Atividades Generation\IMC\Calculo de IMC\Calculo de IMC\bin\Debug\net5.0\Calculo de IMC.deps.json
+C:\Users\Henrique\Documents\Atividades Generation\IMC\Calculo de IMC\Calculo de IMC\bin\Debug\net5.0\Calculo de IMC.runtimeconfig.json
+C:\Users\Henrique\Documents\Atividades Generation\IMC\Calculo de IMC\Calculo de IMC\bin\Debug\net5.0\Calculo de IMC.runtimeconfig.dev.json
+C:\Users\Henrique\Documents\Atividades Generation\IMC\Calculo de IMC\Calculo de IMC\bin\Debug\net5.0\Calculo de IMC.dll
+C:\Users\Henrique\Documents\Atividades Generation\IMC\Calculo de IMC\Calculo de IMC\bin\Debug\net5.0\Calculo de IMC.pdb
+C:\Users\Henrique\Documents\Atividades Generation\IMC\Calculo de IMC\Calculo de IMC\obj\Debug\net5.0\Calculo de IMC.csproj.AssemblyReference.cache
+C:\Users\Henrique\Documents\Atividades Generation\IMC\Calculo de IMC\Calculo de IMC\obj\Debug\net5.0\Calculo de IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\Documents\Atividades Generation\IMC\Calculo de IMC\Calculo de IMC\obj\Debug\net5.0\Calculo de IMC.AssemblyInfoInputs.cache
+C:\Users\Henrique\Documents\Atividades Generation\IMC\Calculo de IMC\Calculo de IMC\obj\Debug\net5.0\Calculo de IMC.AssemblyInfo.cs
+C:\Users\Henrique\Documents\Atividades Generation\IMC\Calculo de IMC\Calculo de IMC\obj\Debug\net5.0\Calculo de IMC.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Documents\Atividades Generation\IMC\Calculo de IMC\Calculo de IMC\obj\Debug\net5.0\Calculo de IMC.dll
+C:\Users\Henrique\Documents\Atividades Generation\IMC\Calculo de IMC\Calculo de IMC\obj\Debug\net5.0\refint\Calculo de IMC.dll
+C:\Users\Henrique\Documents\Atividades Generation\IMC\Calculo de IMC\Calculo de IMC\obj\Debug\net5.0\Calculo de IMC.pdb
+C:\Users\Henrique\Documents\Atividades Generation\IMC\Calculo de IMC\Calculo de IMC\obj\Debug\net5.0\Calculo de IMC.genruntimeconfig.cache
+C:\Users\Henrique\Documents\Atividades Generation\IMC\Calculo de IMC\Calculo de IMC\obj\Debug\net5.0\ref\Calculo de IMC.dll

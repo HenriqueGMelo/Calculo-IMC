@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aXBlUVv4CS9VNzACOqh8Qu+iJdtICEkLFoKqPjHrtRSTdSfuThygE81aeihm0P+D7jtZQnqJL+CmyGIxkVegAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Henrique\\Documents\\Atividades Generation\\IMC\\Calculo de IMC\\Calculo de IMC\\Calculo de IMC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Henrique\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
